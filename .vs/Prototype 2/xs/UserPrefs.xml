@@ -1,20 +1,27 @@
 ﻿<Properties StartupConfiguration="{26005786-6F87-D14A-9974-E2C6B23063D5}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/DestroyOutOfBounds.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Challenge 2/Scripts/DestroyOutOfBoundsX.cs">
     <Files>
       <File FileName="Assets/Scripts/PlayerController.cs" Line="16" Column="6" />
-      <File FileName="Assets/Scripts/MoveForward.cs" />
-      <File FileName="Assets/Scripts/DestroyOutOfBounds.cs" Line="23" Column="37" />
+      <File FileName="Assets/Scripts/MoveForward.cs" Line="17" Column="55" />
+      <File FileName="Assets/Scripts/DestroyOutOfBounds.cs" Line="8" Column="36" />
       <File FileName="Assets/Scripts/SpawnManager.cs" Line="22" Column="8" />
-      <File FileName="Assets/Scripts/DetectCollision.cs" Line="17" Column="6" />
+      <File FileName="Assets/Scripts/DetectCollision.cs" />
+      <File FileName="Assets/Challenge 2/Scripts/SpawnManagerX.cs" Line="25" Column="42" />
+      <File FileName="Assets/Challenge 2/Scripts/MoveForwardX.cs" Line="10" Column="18" />
+      <File FileName="Assets/Challenge 2/Scripts/PlayerControllerX.cs" Line="15" Column="51" />
+      <File FileName="Assets/Challenge 2/Scripts/DestroyOutOfBoundsX.cs" Line="19" Column="33" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Prototype 2" expanded="True">
             <Node name="Assets" expanded="True">
-              <Node name="Scripts" expanded="True">
-                <Node name="DestroyOutOfBounds.cs" selected="True" />
+              <Node name="Challenge 2" expanded="True">
+                <Node name="Scripts" expanded="True">
+                  <Node name="DestroyOutOfBoundsX.cs" selected="True" />
+                </Node>
               </Node>
+              <Node name="Scripts" expanded="True" />
             </Node>
           </Node>
         </State>
@@ -23,7 +30,7 @@
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="e20adf60-47c3-480d-8d16-fc79a3f49bd6" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="e87d3fa5-08ec-4777-b81f-8fb5c73df91c" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
